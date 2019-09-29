@@ -1,0 +1,2 @@
+# sprawdzian2
+opis
